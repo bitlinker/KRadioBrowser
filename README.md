@@ -1,4 +1,4 @@
-# RadioBrowser4k
+# KRadioBrowser
 
 A Kotlin Multiplatform API for the https://www.radio-browser.info/ internet radio station online repository.
 
