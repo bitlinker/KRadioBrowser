@@ -5,7 +5,7 @@ import org.jetbrains.kotlin.gradle.ExperimentalWasmDsl
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
 group = "io.github.bitlinker.kradiobrowser"
-version = "1.0.0"
+version = "1.0.1"
 
 plugins {
     alias(libs.plugins.androidLibrary)
